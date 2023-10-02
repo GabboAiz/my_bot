@@ -129,5 +129,10 @@
     <mu2 value="0.001"/>
 </gazebo>    
 
+<gazebo reference="laser_frame">
+    <material>Gazebo/Red</material>
+
+    
+</gazebo>
     
 </robot>
