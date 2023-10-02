@@ -130,9 +130,11 @@
 </gazebo>    
 
 <gazebo reference="laser_frame">
-    <material>Gazebo/Red</material>
+    <material>Gazebo/Red</material>  
+</gazebo>
 
-    
+<gazebo reference="camera_link">
+    <material>Gazebo/Red</material>
 </gazebo>
     
 </robot>
